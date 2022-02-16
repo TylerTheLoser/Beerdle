@@ -1,0 +1,97 @@
+[
+    {
+      "ID": 1,
+      "Beer Name": "Guinness",
+      "Beer Image": "guinness.jpg"
+    },
+    {
+      "ID": 2,
+      "Beer Name": "Heineken",
+      "Beer Image": "heineken.png"
+    },
+    {
+      "ID": 3,
+      "Beer Name": "Samuel Adams",
+      "Beer Image": "samueladams.png"
+    },
+    {
+      "ID": 4,
+      "Beer Name": "Budweiser",
+      "Beer Image": "budweiser.jpg"
+    },
+    {
+      "ID": 5,
+      "Beer Name": "Blue Moon",
+      "Beer Image": "bluemoon.jpeg"
+    },
+    {
+      "ID": 6,
+      "Beer Name": "Coors Light",
+      "Beer Image": "coorslight.jpg"
+    },
+    {
+      "ID": 7,
+      "Beer Name": "Corona Extra",
+      "Beer Image": "coronaextra.jpeg"
+    },
+    {
+      "ID": 8,
+      "Beer Name": "Modelo",
+      "Beer Image": "modelo.jpeg"
+    },
+    {
+      "ID": 9,
+      "Beer Name": "Miller High Life",
+      "Beer Image": "millerhighlife.jpeg"
+    },
+    {
+      "ID": 10,
+      "Beer Name": "Stella Artois",
+      "Beer Image": "stellaartois.jpeg"
+    },
+    {
+      "ID": 11,
+      "Beer Name": "Miller Lite",
+      "Beer Image": "millerlite.jpeg"
+    },
+    {
+      "ID": 12,
+      "Beer Name": "Corona Light",
+      "Beer Image": "coronalight.png"
+    },
+    {
+      "ID": 13,
+      "Beer Name": "Bud Light",
+      "Beer Image": "budlight.jpeg"
+    },
+    {
+      "ID": 14,
+      "Beer Name": "Miller Genuine Draft",
+      "Beer Image": "millergenuinedraft.jpeg"
+    },
+    {
+      "ID": 15,
+      "Beer Name": "Pabst Blue Ribbon",
+      "Beer Image": "pabstblueribbon.png"
+    },
+    {
+      "ID": 16,
+      "Beer Name": "Dos Equis",
+      "Beer Image": "dosequis.png"
+    },
+    {
+      "ID": 17,
+      "Beer Name": "Michelob Ultra",
+      "Beer Image": "michelobultra.jpeg"
+    },
+    {
+      "ID": 18,
+      "Beer Name": "Busch Light",
+      "Beer Image": "buschlight.jpeg"
+    },
+    {
+      "ID": 19,
+      "Beer Name": "Busch",
+      "Beer Image": "busch.jpg"
+    }
+  ]

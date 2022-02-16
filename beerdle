@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BEERDLE</title>
+        <link rel="stylesheet" href="css/styles.css">
+        <link rel="stylesheet" href="https://bootswatch.com/5/sandstone/bootstrap.min.css">
+        <script src="scripts/main.js"></script>
+    </head>
+    <body onload="initialize()">
+        <div id="container">
+            <div id="title">
+                <h1>BEERDLE</h1>
+            </div>
+            <div id="picturebox">
+                <img id="pic" src="" width="300" height="300">
+            </div>
+            <div id="thebeer">
+                <h2 id="theanswer"></h2>
+            </div>
+            <div id="guesstable">
+                <table>
+                    <tr>
+                        <th>Guesses</th>
+                    </tr>
+                    <tr>
+                        <td class="guessclass"></td>
+                    </tr>
+                    <tr>
+                        <td class="guessclass"></td>
+                    </tr>
+                    <tr>
+                        <td class="guessclass"></td>
+                    </tr>
+                    <tr>
+                        <td class="guessclass"></td>
+                    </tr>
+                    <tr>
+                        <td class="guessclass"></td>
+                    </tr>
+                </table>
+            </div>
+            <div id="guesstext">
+                <input type="text" id="txtGuess">
+                <br><br>
+                <button id="btnGuess" class="btn btn-success" onclick="guess()">GUESS</button>
+            </div>
+            
+        </div>
+    </body>
+</html>
